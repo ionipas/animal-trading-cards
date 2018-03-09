@@ -1,3 +1,8 @@
-# animal-trading-cards
+# Animal Trading Card
+Front-End Development Nanodegree course given by Udacity and Google. 
 
-My first repository on Github
+It is created using:
+* HTML
+* CSS 
+
+Also, my first repository on Github!
